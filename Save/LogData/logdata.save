@@ -1,0 +1,145 @@
+
+Es ist 1 Schnittstelle auf dem System vorhanden:
+
+    Name                   : WLAN
+    Beschreibung           : Intel(R) Wi-Fi 6 AX200 160MHz
+    GUID                   : ebebc6aa-5b2e-42b4-82e3-26988b047010
+    Physische Adresse      : 46:c2:39:85:82:f1
+    Status                 : Verbunden
+    SSID                   : NSA-Server
+    BSSID                  : 58:d7:59:3d:53:b3
+    Netzwerktyp            : Infrastruktur
+    Funktyp                   : 802.11ac
+    Authentifizierung   : WPA2-Personal
+    Verschlüsselung        : CCMP
+    Verbindungsmodus          : Automat. Verbindung
+    Kanal               : 52
+    Empfangsrate (MBit/s)  : 117
+    Übertragungsrate (MBit/s) : 195
+    Signal              : 38% 
+    Profil                 : NSA-Server 
+
+    Status des gehosteten Netzwerks  : Nicht verfügbar
+
+
+Windows-IP-Konfiguration
+
+
+Ethernet-Adapter Ethernet:
+
+   Medienstatus. . . . . . . . . . . : Medium getrennt
+   Verbindungsspezifisches DNS-Suffix: speedport.ip
+
+Ethernet-Adapter VirtualBox Host-Only Network:
+
+   Verbindungsspezifisches DNS-Suffix: 
+   Verbindungslokale IPv6-Adresse  . : fe80::291a:2cbb:ce85:d96c%17
+   IPv4-Adresse  . . . . . . . . . . : 192.168.56.1
+   Subnetzmaske  . . . . . . . . . . : 255.255.255.0
+   Standardgateway . . . . . . . . . : 
+
+Drahtlos-LAN-Adapter LAN-Verbindung* 9:
+
+   Medienstatus. . . . . . . . . . . : Medium getrennt
+   Verbindungsspezifisches DNS-Suffix: 
+
+Drahtlos-LAN-Adapter LAN-Verbindung* 10:
+
+   Medienstatus. . . . . . . . . . . : Medium getrennt
+   Verbindungsspezifisches DNS-Suffix: 
+
+Ethernet-Adapter Ethernet 2:
+
+   Medienstatus. . . . . . . . . . . : Medium getrennt
+   Verbindungsspezifisches DNS-Suffix: 
+
+Drahtlos-LAN-Adapter WLAN:
+
+   Verbindungsspezifisches DNS-Suffix: speedport.ip
+   IPv6-Adresse. . . . . . . . . . . : 2003:c1:9725:f946:f0ac:57ff:6e2e:894
+   Tempor�re IPv6-Adresse. . . . . . : 2003:c1:9725:f946:3546:c8d5:7410:f9ad
+   Verbindungslokale IPv6-Adresse  . : fe80::f0ac:57ff:6e2e:894%20
+   IPv4-Adresse  . . . . . . . . . . : 192.168.2.124
+   Subnetzmaske  . . . . . . . . . . : 255.255.255.0
+   Standardgateway . . . . . . . . . : fe80::1%20
+                                       192.168.2.1
+
+Hostname:                                      DESKTOP-OP12KIR
+Betriebssystemname:                            Microsoft Windows 10 Pro for Workstations
+Betriebssystemversion:                         10.0.18363 Nicht zutreffend Build 18363
+Betriebssystemhersteller:                      Microsoft Corporation
+Betriebssystemkonfiguration:                   Eigenständige Arbeitsstation
+Typ des Betriebssystembuilds:                  Multiprocessor Free
+Registrierter Benutzer:                        Nutzer
+Registrierte Organisation:                     
+Produkt-ID:                                    00391-90008-02128-AA301
+Ursprüngliches Installationsdatum:             12.12.2019, 22:10:24
+Systemstartzeit:                               04.09.2021, 16:54:32
+Systemhersteller:                              Gigabyte Technology Co., Ltd.
+Systemmodell:                                  AX370M-Gaming 3
+Systemtyp:                                     x64-based PC
+Prozessor(en):                                 1 Prozessor(en) installiert.
+                                               [01]: AMD64 Family 23 Model 8 Stepping 2 AuthenticAMD ~3200 MHz
+BIOS-Version:                                  American Megatrends Inc. F20, 31.01.2018
+Windows-Verzeichnis:                           C:\Windows
+System-Verzeichnis:                            C:\Windows\system32
+Startgerät:                                    \Device\HarddiskVolume1
+Systemgebietsschema:                           de;Deutsch (Deutschland)
+Eingabegebietsschema:                          de;Deutsch (Deutschland)
+Zeitzone:                                      (UTC+01:00) Brüssel, Kopenhagen, Madrid, Paris
+Gesamter physischer Speicher:                  16.335 MB
+Verfügbarer physischer Speicher:               11.459 MB
+Virtueller Arbeitsspeicher: Maximale Größe:    31.695 MB
+Virtueller Arbeitsspeicher: Verfügbar:         22.923 MB
+Virtueller Arbeitsspeicher: Zurzeit verwendet: 8.772 MB
+Auslagerungsdateipfad(e):                      C:\pagefile.sys
+Domäne:                                        WORKGROUP
+Anmeldeserver:                                 \\DESKTOP-OP12KIR
+Hotfix(es):                                    21 Hotfix(e) installiert.
+                                               [01]: KB4586878
+                                               [02]: KB4513661
+                                               [03]: KB4516115
+                                               [04]: KB4517245
+                                               [05]: KB4521863
+                                               [06]: KB4524244
+                                               [07]: KB4524569
+                                               [08]: KB4528759
+                                               [09]: KB4537759
+                                               [10]: KB4538674
+                                               [11]: KB4541338
+                                               [12]: KB4552152
+                                               [13]: KB4560959
+                                               [14]: KB4561600
+                                               [15]: KB4565554
+                                               [16]: KB4569073
+                                               [17]: KB4576751
+                                               [18]: KB4577670
+                                               [19]: KB4580325
+                                               [20]: KB4586863
+                                               [21]: KB4592449
+Netzwerkkarte(n):                              4 Netzwerkadapter installiert.
+                                               [01]: Realtek PCIe GbE Family Controller
+                                                     Verbindungsname: Ethernet
+                                                     Status:          Medien getrennt
+                                               [02]: VirtualBox Host-Only Ethernet Adapter
+                                                     Verbindungsname: VirtualBox Host-Only Network
+                                                     DHCP aktiviert:  Nein
+                                                     IP-Adresse(n)
+                                                     [01]: 192.168.56.1
+                                                     [02]: fe80::291a:2cbb:ce85:d96c
+                                               [03]: TAP-Windows Adapter V9
+                                                     Verbindungsname: Ethernet 2
+                                                     Status:          Medien getrennt
+                                               [04]: Intel(R) Wi-Fi 6 AX200 160MHz
+                                                     Verbindungsname: WLAN
+                                                     DHCP aktiviert:  Ja
+                                                     DHCP-Server:     192.168.2.1
+                                                     IP-Adresse(n)
+                                                     [01]: 192.168.2.124
+                                                     [02]: fe80::f0ac:57ff:6e2e:894
+                                                     [03]: 2003:c1:9725:f946:3546:c8d5:7410:f9ad
+                                                     [04]: 2003:c1:9725:f946:f0ac:57ff:6e2e:894
+Anforderungen für Hyper-V:                     Erweiterungen für den VM-Überwachungsmodus: Ja
+                                               Virtualisierung in Firmware aktiviert: Nein
+                                               Adressübersetzung der zweiten Ebene: Ja
+                                               Datenausführungsverhinderung verfügbar: Ja
